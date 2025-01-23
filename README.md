@@ -1,1 +1,1 @@
-# Digital-Logic
+# DIGITAL LOGIC
